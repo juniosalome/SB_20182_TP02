@@ -1,0 +1,11 @@
+ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ ; Programa que imprime o maior numero entre dois informados  ;
+ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+    READ R0      ; Salva primeiro numero do registrador 0
+    READ R1	 ; Salva segundo numero no registrador 1
+    HALT
+ A: WORD 0
+    END
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
